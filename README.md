@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 
 ### Watch my contribution graph get eaten by the snake 🐍
 
-![Jesusalc snake gif](https://github.com/jesusalc/jesusalc/blob/output/github-contribution-grid-snake.svg)
-<!--- [![Jesusalc's GitHub stats](https://github-readme-stats.vercel.app/api?username=jesusalc)](https://github.com/jesusalc)
+<!---![Jesusalc snake gif](https://github.com/jesusalc/jesusalc/blob/output/github-contribution-grid-snake.svg)
+ [![Jesusalc's GitHub stats](https://github-readme-stats.vercel.app/api?username=jesusalc)](https://github.com/jesusalc)
 [![Jesusalc Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jesusalc&title_color=b38f28)](https://github.com/jesusalc) --!>
 
